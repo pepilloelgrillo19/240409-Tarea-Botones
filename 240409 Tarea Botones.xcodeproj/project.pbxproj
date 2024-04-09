@@ -1,0 +1,582 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A01CAD622BC5B1FB00E85086 /* _40409_Tarea_BotonesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01CAD612BC5B1FB00E85086 /* _40409_Tarea_BotonesApp.swift */; };
+		A01CAD642BC5B1FB00E85086 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01CAD632BC5B1FB00E85086 /* ContentView.swift */; };
+		A01CAD662BC5B1FC00E85086 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A01CAD652BC5B1FC00E85086 /* Assets.xcassets */; };
+		A01CAD692BC5B1FC00E85086 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A01CAD682BC5B1FC00E85086 /* Preview Assets.xcassets */; };
+		A01CAD732BC5B1FC00E85086 /* _40409_Tarea_BotonesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01CAD722BC5B1FC00E85086 /* _40409_Tarea_BotonesTests.swift */; };
+		A01CAD7D2BC5B1FC00E85086 /* _40409_Tarea_BotonesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01CAD7C2BC5B1FC00E85086 /* _40409_Tarea_BotonesUITests.swift */; };
+		A01CAD7F2BC5B1FC00E85086 /* _40409_Tarea_BotonesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01CAD7E2BC5B1FC00E85086 /* _40409_Tarea_BotonesUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A01CAD6F2BC5B1FC00E85086 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A01CAD562BC5B1FB00E85086 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A01CAD5D2BC5B1FB00E85086;
+			remoteInfo = "240409 Tarea Botones";
+		};
+		A01CAD792BC5B1FC00E85086 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A01CAD562BC5B1FB00E85086 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A01CAD5D2BC5B1FB00E85086;
+			remoteInfo = "240409 Tarea Botones";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A01CAD5E2BC5B1FB00E85086 /* 240409 Tarea Botones.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "240409 Tarea Botones.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A01CAD612BC5B1FB00E85086 /* _40409_Tarea_BotonesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _40409_Tarea_BotonesApp.swift; sourceTree = "<group>"; };
+		A01CAD632BC5B1FB00E85086 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A01CAD652BC5B1FC00E85086 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A01CAD682BC5B1FC00E85086 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A01CAD6E2BC5B1FC00E85086 /* 240409 Tarea BotonesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "240409 Tarea BotonesTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A01CAD722BC5B1FC00E85086 /* _40409_Tarea_BotonesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _40409_Tarea_BotonesTests.swift; sourceTree = "<group>"; };
+		A01CAD782BC5B1FC00E85086 /* 240409 Tarea BotonesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "240409 Tarea BotonesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A01CAD7C2BC5B1FC00E85086 /* _40409_Tarea_BotonesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _40409_Tarea_BotonesUITests.swift; sourceTree = "<group>"; };
+		A01CAD7E2BC5B1FC00E85086 /* _40409_Tarea_BotonesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _40409_Tarea_BotonesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A01CAD5B2BC5B1FB00E85086 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A01CAD6B2BC5B1FC00E85086 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A01CAD752BC5B1FC00E85086 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A01CAD552BC5B1FB00E85086 = {
+			isa = PBXGroup;
+			children = (
+				A01CAD602BC5B1FB00E85086 /* 240409 Tarea Botones */,
+				A01CAD712BC5B1FC00E85086 /* 240409 Tarea BotonesTests */,
+				A01CAD7B2BC5B1FC00E85086 /* 240409 Tarea BotonesUITests */,
+				A01CAD5F2BC5B1FB00E85086 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A01CAD5F2BC5B1FB00E85086 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A01CAD5E2BC5B1FB00E85086 /* 240409 Tarea Botones.app */,
+				A01CAD6E2BC5B1FC00E85086 /* 240409 Tarea BotonesTests.xctest */,
+				A01CAD782BC5B1FC00E85086 /* 240409 Tarea BotonesUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A01CAD602BC5B1FB00E85086 /* 240409 Tarea Botones */ = {
+			isa = PBXGroup;
+			children = (
+				A01CAD612BC5B1FB00E85086 /* _40409_Tarea_BotonesApp.swift */,
+				A01CAD632BC5B1FB00E85086 /* ContentView.swift */,
+				A01CAD652BC5B1FC00E85086 /* Assets.xcassets */,
+				A01CAD672BC5B1FC00E85086 /* Preview Content */,
+			);
+			path = "240409 Tarea Botones";
+			sourceTree = "<group>";
+		};
+		A01CAD672BC5B1FC00E85086 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				A01CAD682BC5B1FC00E85086 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A01CAD712BC5B1FC00E85086 /* 240409 Tarea BotonesTests */ = {
+			isa = PBXGroup;
+			children = (
+				A01CAD722BC5B1FC00E85086 /* _40409_Tarea_BotonesTests.swift */,
+			);
+			path = "240409 Tarea BotonesTests";
+			sourceTree = "<group>";
+		};
+		A01CAD7B2BC5B1FC00E85086 /* 240409 Tarea BotonesUITests */ = {
+			isa = PBXGroup;
+			children = (
+				A01CAD7C2BC5B1FC00E85086 /* _40409_Tarea_BotonesUITests.swift */,
+				A01CAD7E2BC5B1FC00E85086 /* _40409_Tarea_BotonesUITestsLaunchTests.swift */,
+			);
+			path = "240409 Tarea BotonesUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A01CAD5D2BC5B1FB00E85086 /* 240409 Tarea Botones */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A01CAD822BC5B1FC00E85086 /* Build configuration list for PBXNativeTarget "240409 Tarea Botones" */;
+			buildPhases = (
+				A01CAD5A2BC5B1FB00E85086 /* Sources */,
+				A01CAD5B2BC5B1FB00E85086 /* Frameworks */,
+				A01CAD5C2BC5B1FB00E85086 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "240409 Tarea Botones";
+			productName = "240409 Tarea Botones";
+			productReference = A01CAD5E2BC5B1FB00E85086 /* 240409 Tarea Botones.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A01CAD6D2BC5B1FC00E85086 /* 240409 Tarea BotonesTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A01CAD852BC5B1FC00E85086 /* Build configuration list for PBXNativeTarget "240409 Tarea BotonesTests" */;
+			buildPhases = (
+				A01CAD6A2BC5B1FC00E85086 /* Sources */,
+				A01CAD6B2BC5B1FC00E85086 /* Frameworks */,
+				A01CAD6C2BC5B1FC00E85086 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A01CAD702BC5B1FC00E85086 /* PBXTargetDependency */,
+			);
+			name = "240409 Tarea BotonesTests";
+			productName = "240409 Tarea BotonesTests";
+			productReference = A01CAD6E2BC5B1FC00E85086 /* 240409 Tarea BotonesTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		A01CAD772BC5B1FC00E85086 /* 240409 Tarea BotonesUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A01CAD882BC5B1FC00E85086 /* Build configuration list for PBXNativeTarget "240409 Tarea BotonesUITests" */;
+			buildPhases = (
+				A01CAD742BC5B1FC00E85086 /* Sources */,
+				A01CAD752BC5B1FC00E85086 /* Frameworks */,
+				A01CAD762BC5B1FC00E85086 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A01CAD7A2BC5B1FC00E85086 /* PBXTargetDependency */,
+			);
+			name = "240409 Tarea BotonesUITests";
+			productName = "240409 Tarea BotonesUITests";
+			productReference = A01CAD782BC5B1FC00E85086 /* 240409 Tarea BotonesUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A01CAD562BC5B1FB00E85086 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					A01CAD5D2BC5B1FB00E85086 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					A01CAD6D2BC5B1FC00E85086 = {
+						CreatedOnToolsVersion = 14.2;
+						TestTargetID = A01CAD5D2BC5B1FB00E85086;
+					};
+					A01CAD772BC5B1FC00E85086 = {
+						CreatedOnToolsVersion = 14.2;
+						TestTargetID = A01CAD5D2BC5B1FB00E85086;
+					};
+				};
+			};
+			buildConfigurationList = A01CAD592BC5B1FB00E85086 /* Build configuration list for PBXProject "240409 Tarea Botones" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A01CAD552BC5B1FB00E85086;
+			productRefGroup = A01CAD5F2BC5B1FB00E85086 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A01CAD5D2BC5B1FB00E85086 /* 240409 Tarea Botones */,
+				A01CAD6D2BC5B1FC00E85086 /* 240409 Tarea BotonesTests */,
+				A01CAD772BC5B1FC00E85086 /* 240409 Tarea BotonesUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A01CAD5C2BC5B1FB00E85086 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A01CAD692BC5B1FC00E85086 /* Preview Assets.xcassets in Resources */,
+				A01CAD662BC5B1FC00E85086 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A01CAD6C2BC5B1FC00E85086 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A01CAD762BC5B1FC00E85086 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A01CAD5A2BC5B1FB00E85086 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A01CAD642BC5B1FB00E85086 /* ContentView.swift in Sources */,
+				A01CAD622BC5B1FB00E85086 /* _40409_Tarea_BotonesApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A01CAD6A2BC5B1FC00E85086 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A01CAD732BC5B1FC00E85086 /* _40409_Tarea_BotonesTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A01CAD742BC5B1FC00E85086 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A01CAD7D2BC5B1FC00E85086 /* _40409_Tarea_BotonesUITests.swift in Sources */,
+				A01CAD7F2BC5B1FC00E85086 /* _40409_Tarea_BotonesUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A01CAD702BC5B1FC00E85086 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A01CAD5D2BC5B1FB00E85086 /* 240409 Tarea Botones */;
+			targetProxy = A01CAD6F2BC5B1FC00E85086 /* PBXContainerItemProxy */;
+		};
+		A01CAD7A2BC5B1FC00E85086 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A01CAD5D2BC5B1FB00E85086 /* 240409 Tarea Botones */;
+			targetProxy = A01CAD792BC5B1FC00E85086 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		A01CAD802BC5B1FC00E85086 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A01CAD812BC5B1FC00E85086 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A01CAD832BC5B1FC00E85086 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"240409 Tarea Botones/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "lpg.-40409-Tarea-Botones";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A01CAD842BC5B1FC00E85086 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"240409 Tarea Botones/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "lpg.-40409-Tarea-Botones";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		A01CAD862BC5B1FC00E85086 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "lpg.-40409-Tarea-BotonesTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/240409 Tarea Botones.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/240409 Tarea Botones";
+			};
+			name = Debug;
+		};
+		A01CAD872BC5B1FC00E85086 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "lpg.-40409-Tarea-BotonesTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/240409 Tarea Botones.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/240409 Tarea Botones";
+			};
+			name = Release;
+		};
+		A01CAD892BC5B1FC00E85086 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "lpg.-40409-Tarea-BotonesUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "240409 Tarea Botones";
+			};
+			name = Debug;
+		};
+		A01CAD8A2BC5B1FC00E85086 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "lpg.-40409-Tarea-BotonesUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "240409 Tarea Botones";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A01CAD592BC5B1FB00E85086 /* Build configuration list for PBXProject "240409 Tarea Botones" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A01CAD802BC5B1FC00E85086 /* Debug */,
+				A01CAD812BC5B1FC00E85086 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A01CAD822BC5B1FC00E85086 /* Build configuration list for PBXNativeTarget "240409 Tarea Botones" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A01CAD832BC5B1FC00E85086 /* Debug */,
+				A01CAD842BC5B1FC00E85086 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A01CAD852BC5B1FC00E85086 /* Build configuration list for PBXNativeTarget "240409 Tarea BotonesTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A01CAD862BC5B1FC00E85086 /* Debug */,
+				A01CAD872BC5B1FC00E85086 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A01CAD882BC5B1FC00E85086 /* Build configuration list for PBXNativeTarget "240409 Tarea BotonesUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A01CAD892BC5B1FC00E85086 /* Debug */,
+				A01CAD8A2BC5B1FC00E85086 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A01CAD562BC5B1FB00E85086 /* Project object */;
+}
