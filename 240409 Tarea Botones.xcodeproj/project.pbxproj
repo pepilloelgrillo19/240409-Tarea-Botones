@@ -14,6 +14,9 @@
 		A01CAD732BC5B1FC00E85086 /* _40409_Tarea_BotonesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01CAD722BC5B1FC00E85086 /* _40409_Tarea_BotonesTests.swift */; };
 		A01CAD7D2BC5B1FC00E85086 /* _40409_Tarea_BotonesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01CAD7C2BC5B1FC00E85086 /* _40409_Tarea_BotonesUITests.swift */; };
 		A01CAD7F2BC5B1FC00E85086 /* _40409_Tarea_BotonesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01CAD7E2BC5B1FC00E85086 /* _40409_Tarea_BotonesUITestsLaunchTests.swift */; };
+		A01CAD8C2BC5B23400E85086 /* FormaBotones.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01CAD8B2BC5B23400E85086 /* FormaBotones.swift */; };
+		A01CAD8E2BC5B24700E85086 /* VistaAnimaciones.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01CAD8D2BC5B24700E85086 /* VistaAnimaciones.swift */; };
+		A07C7B272BC6DA2400639FF4 /* FormaBotones2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A07C7B262BC6DA2400639FF4 /* FormaBotones2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +47,9 @@
 		A01CAD782BC5B1FC00E85086 /* 240409 Tarea BotonesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "240409 Tarea BotonesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A01CAD7C2BC5B1FC00E85086 /* _40409_Tarea_BotonesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _40409_Tarea_BotonesUITests.swift; sourceTree = "<group>"; };
 		A01CAD7E2BC5B1FC00E85086 /* _40409_Tarea_BotonesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _40409_Tarea_BotonesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A01CAD8B2BC5B23400E85086 /* FormaBotones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormaBotones.swift; sourceTree = "<group>"; };
+		A01CAD8D2BC5B24700E85086 /* VistaAnimaciones.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VistaAnimaciones.swift; sourceTree = "<group>"; };
+		A07C7B262BC6DA2400639FF4 /* FormaBotones2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormaBotones2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +102,9 @@
 			children = (
 				A01CAD612BC5B1FB00E85086 /* _40409_Tarea_BotonesApp.swift */,
 				A01CAD632BC5B1FB00E85086 /* ContentView.swift */,
+				A07C7B262BC6DA2400639FF4 /* FormaBotones2.swift */,
+				A01CAD8D2BC5B24700E85086 /* VistaAnimaciones.swift */,
+				A01CAD8B2BC5B23400E85086 /* FormaBotones.swift */,
 				A01CAD652BC5B1FC00E85086 /* Assets.xcassets */,
 				A01CAD672BC5B1FC00E85086 /* Preview Content */,
 			);
@@ -258,7 +267,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				A01CAD642BC5B1FB00E85086 /* ContentView.swift in Sources */,
+				A01CAD8C2BC5B23400E85086 /* FormaBotones.swift in Sources */,
 				A01CAD622BC5B1FB00E85086 /* _40409_Tarea_BotonesApp.swift in Sources */,
+				A07C7B272BC6DA2400639FF4 /* FormaBotones2.swift in Sources */,
+				A01CAD8E2BC5B24700E85086 /* VistaAnimaciones.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
